@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "naukma-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "naukma-api-db",
+			"database_id": "94b1d48a-0361-4158-9c68-03071bef6b70"
+		}
+	]
+}
